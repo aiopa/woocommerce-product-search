@@ -1,9 +1,9 @@
 # woocommerce-product-search
 po and mo file in Norwegian for [woocommerce product search](https://woocommerce.com/products/woocommerce-product-search/)
 
-#
+##How to
 add these to files to 	/wp-content/languages/plugins
-Keep the name ass is
+For shot kodes see [Link](https://docs.woocommerce.com/document/woocommerce-product-search/shortcodes/)
 
 ## To do 
 ### Loads more to transelate. 

@@ -7,4 +7,4 @@ Keep the name ass is
 
 ## To do 
 ### Loads more to transelate. 
-### [Poeit](https://poedit.net/)
+### Not good enough?? [Poeit.](https://poedit.net/)

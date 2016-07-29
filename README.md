@@ -6,4 +6,5 @@ add these to files to 	/wp-content/languages/plugins
 Keep the name ass is
 
 ## To do 
-### Loads more to transelate. Come join me
+### Loads more to transelate. 
+### [Poeit](https://poedit.net/)
